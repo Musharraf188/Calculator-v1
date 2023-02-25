@@ -1,0 +1,25 @@
+{
+  "name": "calculator-v1",
+  "version": "1.0.0",
+  "description": "This is Traditional Calculator App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musharraf188/Calculator-v1.git"
+  },
+  "author": "Mushrraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musharraf188/Calculator-v1/issues"
+  },
+  "homepage": "https://github.com/Musharraf188/Calculator-v1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
